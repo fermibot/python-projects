@@ -6,3 +6,4 @@
 /.idea/python-projects.iml
 /machine_learning/.ipynb_checkpoints/test-checkpoint.ipynb
 /.idea/vcs.xml
+*-checkpoint.ipynb
